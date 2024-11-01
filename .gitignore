@@ -1,0 +1,13 @@
+# Node Modules
+node_modules/
+
+# Logs
+*.log
+*.log.*
+yarn-debug.log*
+yarn-error.log*
+npm-debug.log*
+lerna-debug.log*
+
+# Mac system files
+.DS_Store
